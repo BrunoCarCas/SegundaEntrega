@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1, 
+        "name": "Buzo Deportivo Salmon",
+        "categoria": "Buzo",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/9159d9/www.bas.com.uy/bas/eec3/original/catalogo/W23M2424Rosa1/600x900/sudadera-deportiva-rosa.jpg",
+        "sexo": "M"
+    },
+    {
+        "id": 2, 
+        "name": "Sobre Camisa de Jean Negra",
+        "categoria": "Camisa",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/f10a0e/www.bas.com.uy/bas/2a2e/original/catalogo/W23M0224Negro1/600x900/sobrecamisa-de-jean-negro.jpg",
+        "sexo": "M"
+    },
+    {
+        "id": 3, 
+        "name": "Remera M/C Amarilla",
+        "categoria": "Remera",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/d1b8f2/www.bas.com.uy/bas/c61e/original/catalogo/S2324M02Palmerasmostaza1/600x900/camiseta-manga-corta-estampada-palmeras-mostaza.jpg",
+        "sexo": "M"
+    },
+    {
+        "id": 4, 
+        "name": "Remera M/C Pistacho",
+        "categoria": "Remera",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/05775e/www.bas.com.uy/bas/e128/original/catalogo/S2324M02Energyverdepalido1/600x900/camiseta-manga-corta-estampada-energy-verde-palido.jpg",
+        "sexo": "M"
+    },
+    {
+        "id": 5, 
+        "name": "Buzo Deportivo Blanco",
+        "categoria": "Buzo",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/904c6b/www.bas.com.uy/bas/2586/original/catalogo/W23M2424Offwhite1/600x900/sudadera-deportiva-off-white.jpg",
+        "sexo": "M"
+    },
+    {
+        "id": 6, 
+        "name": "Sobre Camisa de Jean",
+        "categoria": "Camisa",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/902b69/www.bas.com.uy/bas/d4d1/original/catalogo/W23M0224Celeste1/600x900/sobrecamisa-de-jean-celeste.jpg",
+        "sexo": "M"
+    },
+    {
+        "id": 7, 
+        "name": "Buzo Deportivo Camel",
+        "categoria": "Buzo",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/150cbb/www.bas.com.uy/bas/14bc/original/catalogo/W23M24Camel1/600x900/sudadera-deportiva-camel.jpg",
+        "sexo": "M"
+    },
+    {
+        "id": 8, 
+        "name": "Remera M/C Blanca",
+        "categoria": "Remera",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/ccdf86/www.bas.com.uy/bas/6c38/original/catalogo/S2324M02Takecare-Blanco1/600x900/camiseta-manga-corta-estampada-take-care-blanco.jpg",
+        "sexo": "M"
+    },
+
+    {
+        "id": 9, 
+        "name": "Top tejido Turquesa",
+        "categoria": "Top",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/cb0e14/www.bas.com.uy/bas/3565/webp/catalogo/S2324W01Turquesa2/600x900/top-halter-tejido-turquesa.jpg",
+        "sexo": "F"
+    },
+    {
+        "id": 10, 
+        "name": "Top tejido Crudo",
+        "categoria": "Top",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/e2ccaf/www.bas.com.uy/bas/5704/webp/catalogo/S2324W07Crudo2/600x900/top-tejido-crudo.jpg",
+        "sexo": "F"
+    },
+    {
+        "id": 11, 
+        "name": "Top tejido Negro",
+        "categoria": "Top",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/130e0a/www.bas.com.uy/bas/01a4/webp/catalogo/S2324W07Negro2/600x900/top-tejido-negro.jpg",
+        "sexo": "F"
+    },
+    {
+        "id": 12, 
+        "name": "Remera M/C Estampada Gris",
+        "categoria": "Remera",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/8826f5/www.bas.com.uy/bas/3d19/webp/catalogo/S2324W11Gris2/600x900/camiseta-larga-manga-corta-estampada-gris.jpg",
+        "sexo": "F"
+    },
+    {
+        "id": 13, 
+        "name": "Remera M/C Estampada Blanca",
+        "categoria": "Remera",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/f06aec/www.bas.com.uy/bas/dc25/webp/catalogo/W23W04Blanco2/600x900/camiseta-manga-corta-estampada-blanco.jpg",
+        "sexo": "F"
+    },
+    {
+        "id": 14, 
+        "name": "Remera M/C Estampada Lila",
+        "categoria": "Remera",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/74376a/www.bas.com.uy/bas/df30/webp/catalogo/S2324W11Lavanda2/600x900/camiseta-larga-manga-corta-estampada-lavanda.jpg",
+        "sexo": "F"
+    },
+    {
+        "id": 15, 
+        "name": "Camisa oversize Tostado",
+        "categoria": "Camisa",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/cb3a4c/www.bas.com.uy/bas/4a65/webp/catalogo/S2324W41Vison2/600x900/camisa-manga-larga-oversize-vison.jpg",
+        "sexo": "F"
+    },
+    {
+        "id": 16, 
+        "name": "Camisa Poplin Lila",
+        "categoria": "Camisa",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/d6ce2b/www.bas.com.uy/bas/416d/webp/catalogo/S2324W66Lavanda2/600x900/camisa-manga-larga-poplin-lavanda.jpg",
+        "sexo": "M"
+    },
+    {
+        "id": 17, 
+        "name": "Camisa oversize Rosa",
+        "categoria": "Camisa",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/38b1fc/www.bas.com.uy/bas/b4ff/webp/catalogo/W23W41Rosa2/600x900/camisa-oversize-rosa.jpg",
+        "sexo": "F"
+    },
+    {
+        "id": 18, 
+        "name": "Sobre Camisa Verde",
+        "categoria": "Camisa",
+        "precio": 1000, 
+        "img": "https://f.fcdn.app/imgs/e7c8bf/www.bas.com.uy/bas/3747/original/catalogo/W23M02Verde1/600x900/camisa-de-jean-verde.jpg",
+        "sexo": "M"
+    }
+
+]

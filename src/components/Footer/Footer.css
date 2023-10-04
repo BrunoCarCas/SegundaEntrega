@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    height: 12vh;
+    background-color: black;
+    align-items: center;
+}
+
+.footer svg{
+    color: white;
+    font-size: 500px;
+    cursor: pointer;
+}
+.instagram:hover{
+    color: pink;
+    border-radius: 50px;
+}
