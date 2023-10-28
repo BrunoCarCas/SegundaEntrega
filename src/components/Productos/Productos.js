@@ -2,7 +2,8 @@ import { useContext } from "react";
 import { dataContext } from "../Context/DataContext";
 import "./Productos.css"
 const Productos = () => {
-const {data} = useContext(dataContext);
+const {data, agregarProductos} = useContext(dataContext);
+
 
 
   return data.map((productos) => { 
@@ -11,7 +12,7 @@ const {data} = useContext(dataContext);
             <img src={productos.img}/>
             <h3>{productos.name}</h3>
             <h4>${productos.precio}</h4>
-            <button>Agregar</button>
+            <button onClick= {() => agregarProductos(productos)}>Agregar</button>
         </div>
     );
 
